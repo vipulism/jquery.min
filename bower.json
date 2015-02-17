@@ -1,0 +1,21 @@
+{
+  "name": "bs",
+  "version": "0.0.0",
+  "description": "its a custom jquery.min.js",
+  "main": "jquery.min.js",
+  "keywords": [
+    "jquery.min"
+  ],
+  "authors": [
+    "Vipul sharma"
+  ],
+  "license": "MIT",
+  "homepage": "vipulism.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
