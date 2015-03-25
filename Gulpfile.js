@@ -6,6 +6,7 @@ var gulp = require('gulp'),
 	watch = require('gulp-watch');
 
 	// zip = require('gulp-zip');
+	// npm install gulp-uglify gulp-ruby-sass gulp-ruby-sass gulp-combine-mq gulp-imagemin gulp-watch
 
 
 
